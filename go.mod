@@ -1,4 +1,4 @@
-module invoicetastic
+module {{ stabe.application_name }}
 
 go 1.22.0
 
